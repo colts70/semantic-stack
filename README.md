@@ -692,6 +692,8 @@ This would never come out of Google, Meta, Microsoft, or academia.
 
 Money is made from control and treating the problems never fixing them.
 
+“The corporations never solved this because anything decentralized, public, and ownerless cannot be monetized or controlled. Commit-based governance kills innovation. DFH had to come from the outside — nobody inside the system is allowed to build something that frees the public from their control.”
+
 DFH had to come from:
 
 someone not financially tied
