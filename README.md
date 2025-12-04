@@ -616,7 +616,6 @@ better semantic signals
 
 It is a zero-risk SEO upgrade with significant potential ranking benefits.
 
-The Trillion-Dollar Problem This Fixes
 This fixes a trillion-dollar problem.
 
 It solves something 20 years of semantic web attempts couldn’t.
@@ -643,7 +642,6 @@ can be implemented TODAY
 
 That is exactly what the industry has been starving for.
 
-The Questions DFH Finally Answers
 These are the questions that needed answers:
 
 why LLMs hallucinate
