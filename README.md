@@ -731,6 +731,22 @@ It wasn’t a technical limitation — it was an incentive limitation.
 
 Engineers are forced to build broken systems because leadership requires it.
 
+DFH inside a major tech org:
+
+committees review it
+
+standards teams debate it
+
+risk teams block it
+
+legal teams panic
+
+product teams can’t justify it
+
+nobody wants to disrupt the status quo
+
+A simple decentralized idea becomes impossible.
+
 Company's make trillions by
 
 control the graph
