@@ -419,6 +419,10 @@ Web standards freeze early
 
 AI grounding requires stability
 
+LLMs without Grounding = Fog Machine
+
+The "Ground" = The Anchor to Reality
+
 DFH is a protocol, not a style suggestion
 
 Any variant becomes a dead fork
