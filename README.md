@@ -692,7 +692,9 @@ This would never come out of Google, Meta, Microsoft, or academia.
 
 Money is made from control and treating the problems never fixing them.
 
-They saw the problem, but were not in a position to solve it.
+Experts knew but were not in a position to release the map.
+
+They knew that Domains were the true semantic layer for years — but nobody inside the industry is allowed to say it.
 
 It wasn’t a technical limitation — it was an incentive limitation.
 
