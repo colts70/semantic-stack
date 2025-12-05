@@ -2,6 +2,12 @@
 _A proposed external semantic layer + the strongest SEO primitive the web has ever had._
 This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 
+The Transport Layer (TCP/IP) → moves packets
+
+The Hyperlink Layer (HTTP/HTML) → shows documents
+
+The Meaning Layer (DFH/Stack) → tells AI what those documents mean
+
 **Status:** Public Concept  
 **Version:** Draft 1.0  
 **Date:** 2025-11-23  
