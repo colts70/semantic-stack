@@ -1,5 +1,6 @@
 # The Semantic Stack & Deterministic First-Hop (DFH)
 _A proposed external semantic layer + the strongest SEO primitive the web has ever had._
+This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 
 **Status:** Public Concept  
 **Version:** Draft 1.0  
