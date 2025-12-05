@@ -4,10 +4,12 @@
 
 Internet Layers
 java
-Copy code
+
 Transport Layer (TCP/IP) → moves packets  
 Hyperlink Layer (HTTP/HTML) → shows documents  
 Meaning Layer (DFH/Stack) → tells AI what those documents mean  
+
+
 Status: Public Concept
 Version: Draft 1.0
 Date: 2025-11-23
