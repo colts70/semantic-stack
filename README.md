@@ -3,6 +3,9 @@
 **This is the modern implementation of Berners-Lee’s original Semantic Web map.**
 *DFH matches the LLM’s internal canonicalization process.
 
+This work is non-commercial research into AI semantic grounding and deterministic canonicalization.
+Domain names are used as neutral anchors for prototype routing maps.”
+
 Internet Layers
 java
 
