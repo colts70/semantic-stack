@@ -1,5 +1,5 @@
 # 🌐 The Semantic Web Stack
-“A modern implementation map of Tim Berners-Lee’s Semantic Web vision — built for AI.”
+“This work operationalizes and extends the original Semantic Web concepts proposed by Tim Berners-Lee, adapted for large-scale AI systems and modern web constraints.”
 ## Semantic First-Hop / Deterministic First-Hop Protocol
 ### (SFH / DFH Protocol Specification — Human Readable Version · Draft v3.0)
 
