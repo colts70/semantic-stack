@@ -17,6 +17,9 @@ https://<domain>/.well-known/stack
 ├─ robots.txt
 ├─ README.md
 
+DNS → /.well-known/stack → Knowledge Graph → Safety / RLHF → Model Output
+
+
 
 The web has **DNS for location**.  
 SFH / DFH is **DNS for meaning**.
@@ -38,9 +41,6 @@ Safety layers determine *output*.
 ## 1. Deterministic Grounding Pipeline
 
 DNS → /.well-known/stack → AI Grounding → Knowledge Graph → Model Output
-
-yaml
-Copy code
 
 - **DFH removes ambiguity at the root.**
 - **RAG attempts to clean up ambiguity after it already happened.**
@@ -82,7 +82,6 @@ A unified framework for how AI systems integrate deterministic grounding with pr
 DNS → DFH → KG → RLHF → Model Output
 
 markdown
-Copy code
 
 - **DFH / SFH:** deterministic intent  
 - **KG:** probabilistic adjudication  
@@ -143,8 +142,6 @@ All served from:
 
 /.well-known/stack
 
-yaml
-Copy code
 
 **SFH / DFH does not replace ontologies.**  
 It simply defines the *first-hop*.
@@ -196,9 +193,6 @@ Machines resolve:
 
 https://yourdomain.com/.well-known/stack
 
-yaml
-Copy code
-
 That single file gives AI:
 
 - semantic definition  
@@ -218,7 +212,7 @@ nano .well-known/stack
 Step 2 — Paste this minimal descriptor
 
 json
-Copy code
+
 {
   "@context": {
     "sfh": "https://example.org/ns/sfh#",
@@ -248,13 +242,12 @@ Copy code
 Step 3 — Test
 
 arduino
-Copy code
+
 https://yourdomain.com/.well-known/stack
 If it loads → your SFH / DFH root is active.
 
 11. High-Level Architecture
 bash
-Copy code
 Semantic Stack
 ├── Root Domain (topic authority)
 │   ├── /.well-known/stack
@@ -306,7 +299,7 @@ Mirrors may add context, never redefine.
 (Ontology + Taxonomy + Provenance — JSON-LD)
 
 json
-Copy code
+
 {
   "@context": {
     "schema": "https://schema.org/",
@@ -408,7 +401,7 @@ Copy code
 Mirrors expand context but never override the Root.
 
 json
-Copy code
+
 {
   "@context": {
     "sfh": "https://example.org/ns/sfh#",
@@ -487,12 +480,12 @@ A deterministic starting point for meaning and provenance.
 Validator
 
 bash
-Copy code
+
 node tools/dfh-validator.js https://example.com
 Quick Installer
 
 bash
-Copy code
+
 curl -s https://raw.githubusercontent.com/.../install-dfh.sh | bash
 19. Adoption Path
 Permissionless
