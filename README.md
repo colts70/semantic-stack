@@ -621,6 +621,5 @@ One protocol. Two layers. Universal adoption, optional provenance.
 
 This project documents an open, public approach to semantic discovery and AI grounding, building on established web architecture principles.
 
-Any domain names or web assets referenced or registered in connection with this work are used solely as illustrative or experimental endpoints and do not imply authority, endorsement, exclusivity, or control over any concept, entity, or future standard.
+Any domain names or web assets referenced or registered in connection with this work are used solely as illustrative or research endpoints for Ai grounding, and do not imply authority, endorsement, exclusivity, or control over any concept, or entity.
 
-This work is exploratory in nature and is intended to support discussion, experimentation, and independent implementation.
