@@ -8,6 +8,8 @@
 SFH / DFH is **the missing layer the internet never had**:
 a universal, deterministic **semantic + provenance first-hop** published at:
 
+DNS → /.well-known/stack → Knowledge Graph → Safety / RLHF → Model Output
+
 https://<domain>/.well-known/stack
 /
 ├─ .well-known/
