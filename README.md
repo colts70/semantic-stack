@@ -180,7 +180,75 @@ That’s the handicap.
 | SEO is page-level only | Introduces topic-level identity |
 | No provenance for truth arbitration | Provides deterministic provenance |
 
+---## 🔗 Main Site Requirement (Normative)
+
+SFH / DFH defines a **machine-readable semantic root**.
+A **human-readable main site is REQUIRED** to anchor those claims.
+
+The stack does NOT replace a website.
+It anchors it.
+
 ---
+
+### Rule
+
+The stack declares meaning.
+The site confirms it to humans.
+
+Both MUST align.
+
+---
+
+### Required Linkage
+
+- `/.well-known/stack` MUST resolve on the same root domain as the site
+- The stack MUST point back to the site via:
+  - `/url`
+  - `/canonical`
+  - `/sitemap`
+
+---
+
+### Minimum Main Site Requirements
+
+The main site MUST include:
+
+1. **Topic Alignment**
+   - Homepage content MUST match the stack root topic
+
+2. **Public Homepage**
+   - HTTPS
+   - No authentication required
+
+3. **Sitemap**
+   - Sitemap URL MUST match `/sitemap` declared in the stack
+
+4. **Canonical URLs**
+   - Pages MUST use canonical tags consistent with `/url` and `/canonical`
+
+---
+
+### Optional (If Provenance Anchors Are Used)
+
+- Ownership or About page
+- Contact or legal presence
+- License or usage terms
+
+---
+
+### Prohibited
+
+- The stack MUST NOT point to a site that contradicts its declared topic
+- Mirrors MUST NOT redefine the main site
+
+---
+
+### Summary
+
+Machines start at the stack.
+Humans start at the site.
+
+Trust exists only when both agree.
 
 # 9. Beginner Layer (Simple Explanation)
 
