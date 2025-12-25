@@ -41,8 +41,6 @@ Each domain publishes a single discovery file at:
 
 /.well-known/stack
 
-yaml
-Copy code
 
 This file declares:
 
